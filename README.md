@@ -1,0 +1,2 @@
+# AmazeZone
+mern-ecommerce-website
